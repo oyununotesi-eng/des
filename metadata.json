@@ -1,0 +1,7 @@
+{
+  "name": "Now UI Kit",
+  "description": "A modern, responsive React & Tailwind CSS recreation of Creative Tim's iconic Now UI Kit, featuring interactive components, live code inspector, and full template pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
